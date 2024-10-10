@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1728531280 source:d:\c语言实践\project\矩阵化简(人类特供)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
